@@ -8,8 +8,6 @@ James Kalenzi
 **Student ID:**
 32606/2025
 
-**Group:**
-[Enter your group]
 
 **GitHub Repository Link:**
 https://github.com/JEMOJEMOO/oracle_pdb_assignment2_32606-2025_JAMES/tree/main
