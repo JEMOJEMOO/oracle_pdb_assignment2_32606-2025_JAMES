@@ -33,10 +33,7 @@ Yes
 
 # . Assignment Overview
 
-This assignment focuses on the practical implementation of Oracle Multitenant Architecture and Pluggable Database (PDB) management. The main objective was to gain hands-on experience in creating and managing Oracle Pluggable Databases, creating database users inside a PDB, assigning privileges, configuring Oracle Enterprise Manager (OEM), and documenting database administration activities professionally using GitHub.
-
-The assignment demonstrates practical Oracle Database Administration skills including PDB creation, user management, PDB lifecycle management, database security, and Oracle environment monitoring.
-
+This individual practical assignment is designed to develop students' practical Oracle Database Administration skills through hands-on implementation of Oracle Multitenant Architecture and Pluggable Database (PDB) management. 
 ---
 
 # . Oracle Environment
