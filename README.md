@@ -97,8 +97,7 @@ The user creation process involved:
 1. Switching the Oracle session into the created PDB.
 2. Creating the user account with a password.
 3. Granting required privileges.
-4. Configuring user access permissions.
-5. Testing successful login using the created user account.
+
 
 The user was successfully created and verified inside the PDB.
 
@@ -129,8 +128,7 @@ The OEM process involved:
 1. Accessing OEM through a web browser.
 2. Logging in using SYSDBA credentials.
 3. Viewing database instance information.
-4. Checking created PDB information.
-5. Monitoring the Oracle database environment.
+
 
 The OEM dashboard displayed:
 
